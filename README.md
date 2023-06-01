@@ -5,9 +5,9 @@ https://github.com/shinkiriu/Civil-Engineering_movement_tracking
 This project is meant to track the pixel movement of positions in a video and reflect its frequency. We used [LK optical flow](https://en.wikipedia.org/wiki/Lucas%E2%80%93Kanade_method) method to track the pos movement between frames.
 
 ## Environments
-*OpenCV 4.6.0
+**OpenCV 4.6.0
 
-*Python 3.8.16
+**Python 3.8.16
 
 *Numpy 1.23.5
 
